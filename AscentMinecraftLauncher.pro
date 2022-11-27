@@ -21,6 +21,11 @@ SOURCES += \
 HEADERS += \
     src/common/ComMacro.h \
     src/common/common.h \
+    src/domain/AssetDomain.h \
+    src/domain/AssetObjectDomain.h \
+    src/domain/ClientDomain.h \
+    src/domain/CommandLineDomain.h \
+    src/domain/LibraryDomain.h \
     src/domain/VersionDomain.h \
     src/http/HttpGet.h \
     src/json/JsonParse.h \

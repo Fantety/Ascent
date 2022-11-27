@@ -1,6 +1,10 @@
 ﻿#include "TestGetVersions.h"
 
+#ifdef TEST
 QTEST_MAIN(TestGetVersions)
+#endif // TEST
+
+
 
 void TestGetVersions::test1_get_versions()
 {

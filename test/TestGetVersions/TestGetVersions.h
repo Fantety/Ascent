@@ -2,6 +2,7 @@
 #define TESTGETVERSIONS_H
 
 #include <QObject>
+#include "stdafx.h"
 #include "../TestCommon.h"
 
 class TestGetVersions : public QObject
