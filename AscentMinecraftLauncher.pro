@@ -1,6 +1,6 @@
-QT       += core gui testlib network webengine
+QT       += core gui testlib network
 
-greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
+greaterThan(QT_MAJOR_VERSION, 5): QT += widgets
 
 CONFIG += c++17
 
@@ -29,12 +29,12 @@ HEADERS += \
     src/domain/VersionDomain.h \
     src/http/HttpGet.h \
     src/json/JsonParse.h \
-    src\widget.h \
+    src/widget.h \
     test/TestCommon.h \
     test/TestGetVersions/TestGetVersions.h
 
 TRANSLATIONS += \
-    AscentMinecraftLauncher_en_AS.ts
+    AscentMinecraftLauncher_en.ts
 CONFIG += lrelease
 CONFIG += embed_translations
 

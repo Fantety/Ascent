@@ -1,0 +1,7 @@
+﻿  Reading Qt configuration (D:/Qt/6.4.1/msvc2019_64/bin/qmake)
+AscentMinecraftLauncher.vcxproj : error : ERROR running qmake
+AscentMinecraftLauncher.vcxproj : error : qmake: (D:/Qt/6.4.1/msvc2019_64/bin/qmake)
+AscentMinecraftLauncher.vcxproj : error : qmake: $PWD=E:\project\C_C++Project\AscentMinecraftLauncher\AscentMinecraftLauncher\out\debug\qmake\temp
+AscentMinecraftLauncher.vcxproj : error : qmake: Project ERROR: Unknown module(s) in QT: webengine
+AscentMinecraftLauncher.vcxproj : error : qmake: Error creating .vcxproj file
+AscentMinecraftLauncher.vcxproj : error : 
