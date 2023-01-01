@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/qss">
+        <file>theme/default.qss</file>
+    </qresource>
+    <qresource prefix="/ico">
+        <file>ico/download.svg</file>
+        <file>ico/home.svg</file>
+        <file>ico/setting.svg</file>
+        <file>ico/close.svg</file>
+        <file>ico/min.svg</file>
+    </qresource>
+    <qresource prefix="/font">
+        <file>font/EDIX.ttf</file>
+    </qresource>
+</RCC>

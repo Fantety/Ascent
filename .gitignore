@@ -1,6 +1,11 @@
 # This file is used to ignore files which are generated
 # ----------------------------------------------------------------------------
 out/
+debug/
+Release/
+GeneratedFiles/
+.qm/
+.vs/
 *~
 *.autosave
 *.a

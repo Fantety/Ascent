@@ -1,0 +1,36 @@
+#MainWidget {
+    background: #BAD7E9;
+    border-radius: 12px;
+}
+#TitleButton {
+    outline: none;
+    border-radius: 6px;
+    background: #FF597B;
+}
+    #TitleButton:hover {
+        background: #EB455F;
+    }
+
+#TitleBar {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background: #2B3467;
+}
+
+#AscentText {
+    color: #FCFFE7;
+}
+
+#BottomBarBatton {
+    outline: none;
+    border-radius: 5px;
+    background: #FF597B;
+}
+    #BottomBarBatton:hover {
+        background: #EB455F;
+    }
+#BottomBar {
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background: #2B3467;
+}
